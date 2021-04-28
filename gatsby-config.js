@@ -2,5 +2,5 @@ module.exports = {
   siteMetadata: {
     title: "kandkdesign",
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss'],
 };
