@@ -1,3 +1,3 @@
-# K & K Designs (WIP)
+# K & K Design (WIP)
 
-This site is currently under construction 🚧
+🚧 This site is currently under construction 🚧
